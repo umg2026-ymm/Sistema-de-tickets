@@ -2,15 +2,24 @@
 
 Proyecto de Programación II — Java 21, SQLite, JDBC, menú de consola.
 
-## Integrante
-- Nombre: _______________   Carné: _______________
-- (Trabajo individual: se implementaron todos los módulos.)
+## Integrantes
+- Nombre: Yerli Isabel Jumique López   Carné: 998925805
+- Nombre: Melanny Saraí Flores Rivas   Carné: 99892514900
+- Nombre: Marvin Antonio Yanes Hernández  Carné: 7690526482
 
 ## Distribución del trabajo
-Proyecto realizado de forma individual: clientes y BST, turnos y cola enlazada, servicios, persistencia y reportes.
+Proyecto realizado de forma grupal: clientes y BST, turnos y cola enlazada, servicios, persistencia y reportes.
 
 ## Repositorio Git
-Enlace: _______________
+Enlace: https://github.com/umg2026-ymm/Sistema-de-tickets.git
+
+## Informe de la secuencia
+- docs/informe_secuencia.pdf
+
+## Diagramas
+- docs/diagrama_uml.png
+- docs/diagrama_er.png
+
 
 ## Requisitos
 - JDK 21
